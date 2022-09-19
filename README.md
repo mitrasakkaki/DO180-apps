@@ -1,2 +1,2 @@
 # DO180-apps
-DO180 Repository for Sample Applications
+D0180 Repository for Sample Applications
